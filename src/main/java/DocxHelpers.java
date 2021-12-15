@@ -16,6 +16,5 @@ public class DocxHelpers {
         catch (Exception ex) {
             return "Exception happened in extractDocxToString: " + ex.toString();
         }
-
     }
 }

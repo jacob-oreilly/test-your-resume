@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PdfHelpersTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-12-15T04:32:12" hostname="DESKTOP-NT6SSH5" time="0.156">
+  <properties/>
+  <testcase name="testExtractPDFToString()" classname="PdfHelpersTest" time="0.156"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
